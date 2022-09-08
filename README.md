@@ -1,7 +1,11 @@
+---
+use_mermaid: true
+---
+
 # test-mermaid
 Test mermaid
 
-```
+```mermaid
 flowchart LR
     Start --> Stop
 ```
