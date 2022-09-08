@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # test-mermaid
 Test mermaid
 
