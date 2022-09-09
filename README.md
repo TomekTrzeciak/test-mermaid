@@ -1,7 +1,3 @@
----
-use_mermaid: true
----
-
 # test-mermaid
 Test mermaid
 
